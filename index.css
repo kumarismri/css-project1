@@ -84,22 +84,23 @@ hr{
 
 .head2{
     text-align: center;
-    text-decoration: line-through;
+    
     color: red;
     line-height: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body{
-  /* background-image: url(https://www.freeppt7.com/uploads/190928/1-1Z92R1102E60.JPG);
-  background-color: #cccccc;
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative; */
+.botm{
+    border-bottom: 2px solid red;
+    position: relative;
+    left: 29px;
+    bottom: 25px;
+    width: 148px;
 
-  background-image: url(https://www.freeppt7.com/uploads/190928/1-1Z92R1102E60.JPG);
+}
+
+body{
+    background-image: url(https://www.freeppt7.com/uploads/190928/1-1Z92R1102E60.JPG);
     background-color: #cccccc;
     height: 500px;
     background-position: center;
@@ -121,6 +122,15 @@ body{
     position: relative;
     top: 18%;
     left: 70%;
+}
+
+.bottm{
+    
+    border-bottom: 2px solid red;
+    position: relative;
+    width: 141px;
+    bottom: 25px;
+    left: 109px;
 }
 
 .icon
